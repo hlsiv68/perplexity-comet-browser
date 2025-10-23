@@ -12,6 +12,8 @@
 
 这条推文迅速传播开来。科技圈的人开始讨论:一个真正能挑战 Safari 的浏览器,在 iPhone 上会是什么样子?
 
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/0422c526-bed0-48a1-a409-32982d35299c" />
+
 ## Comet 想做什么不一样的事
 
 说实话,iOS 上的浏览器选择看起来不少——Chrome、Firefox、Edge 都有。但有个问题:苹果要求所有 iOS 浏览器都必须使用它的 WebKit 引擎。这意味着,无论你用哪个浏览器,底层技术都是一样的,体验差异其实很小。
